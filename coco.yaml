@@ -1,5 +1,5 @@
 train : /content/yolo - forensik/train/images
-val   : /content/yolo - forensik/val/images
+val   : /content/yolo - forensik/train/images
 test  : /content/yolo - forensik/test/images
 
 nc    : 4
