@@ -1,5 +1,5 @@
 train : /content/forensikugm/train/images
-val   : /content/forensikugm/train/images
+val   : /content/forensikugm/val/images
 test  : /content/forensikugm/test/images
 
 nc    : 4
